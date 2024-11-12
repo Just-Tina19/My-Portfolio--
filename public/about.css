@@ -1,0 +1,39 @@
+body{
+    background-color: #C4A747;
+}
+
+.main{
+    
+   margin-left: 100px;
+   margin-right: 100px;
+    background-color: black;
+    
+}
+
+.about{
+    font-size: 2rem;
+    color: white;
+}
+
+img{
+    height: 25%;
+    width: 25%;
+    border-radius: 20px;
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border: 2px solid whitesmoke;
+}
+
+
+.first-p::first-letter{
+    color: #C4A747;
+    font-size: 8rem;
+    font-weight: bold;
+
+}
+@media (max-width:600px){
+   
+    
+}
